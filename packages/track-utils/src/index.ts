@@ -4,7 +4,7 @@
  * @Date: 2023-01-11 18:06:35
  * @LastEditors: yjp
  * @LastEditTime: 2024-01-15 12:04:39
- * @FilePath: /collect-utils/packages/rack-utils-aop/src/index.ts
+ * @FilePath: /collect-utils/packages/track-utils-aop/src/index.ts
  */
 // @ts-ignore
 import isFunction from 'lodash/fp/isFunction';

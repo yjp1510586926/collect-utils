@@ -1,5 +1,5 @@
 {
-    "name": "rack-utils-aop",
+    "name": "track-utils-aop",
     "version": "1.0.15",
     "description": "埋点工具",
     "author": "yjp",
@@ -33,6 +33,5 @@
         "dumi": "^1.1.0",
         "father": "^2.0.0",
         "react": "^18.2.0"
-    },
-    "gitHead": "55a0d6a58586c04a3739a89c889a7ff7f2510f0b"
-}
+    }
+  }

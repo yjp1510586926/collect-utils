@@ -4,7 +4,7 @@
  * @Date: 2024-01-12 19:11:07
  * @LastEditors: yjp
  * @LastEditTime: 2024-01-15 12:06:05
- * @FilePath: /collect-utils/packages/rack-utils-aop/src/utils.ts
+ * @FilePath: /collect-utils/packages/track-utils-aop/src/utils.ts
  */
 
 // @ts-ignore

@@ -90,7 +90,7 @@ function _defineProperty(obj, key, value) {
  * @Date: 2024-01-12 19:11:07
  * @LastEditors: yjp
  * @LastEditTime: 2024-01-15 12:06:05
- * @FilePath: /collect-utils/packages/rack-utils-aop/src/utils.ts
+ * @FilePath: /collect-utils/packages/track-utils-aop/src/utils.ts
  */
 function isThenable(f) {
   return f && isFunction(f.then);
@@ -314,7 +314,7 @@ var exposure = new Exposure();
  * @Date: 2023-01-09 17:44:56
  * @LastEditors: yjp
  * @LastEditTime: 2024-01-15 11:44:42
- * @FilePath: /collect-utils/packages/rack-utils-aop/src/trackExposure.tsx
+ * @FilePath: /collect-utils/packages/track-utils-aop/src/trackExposure.tsx
  */
 //产生随机数函数
 var RndNum = function RndNum() {

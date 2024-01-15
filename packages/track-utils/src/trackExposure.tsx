@@ -4,7 +4,7 @@
  * @Date: 2023-01-09 17:44:56
  * @LastEditors: yjp
  * @LastEditTime: 2024-01-15 11:44:42
- * @FilePath: /collect-utils/packages/rack-utils-aop/src/trackExposure.tsx
+ * @FilePath: /collect-utils/packages/track-utils-aop/src/trackExposure.tsx
  */
 import React, { useEffect, useMemo } from 'react';
 import exposure from './exposure';

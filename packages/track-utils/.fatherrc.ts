@@ -1,7 +1,7 @@
 export default {
   esm: 'rollup',
   // umd: {
-  //     name: 'rack-utils-aop',
+  //     name: 'track-utils-aop',
   // },
   entry: 'src/index.ts',
 };

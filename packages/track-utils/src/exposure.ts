@@ -4,7 +4,7 @@
  * @Date: 2023-01-09 17:43:55
  * @LastEditors: yjp
  * @LastEditTime: 2024-01-15 11:50:14
- * @FilePath: /collect-utils/packages/rack-utils-aop/src/exposure.ts
+ * @FilePath: /collect-utils/packages/track-utils-aop/src/exposure.ts
  */
 // polyfill 解决兼容性问题
 import 'intersection-observer';

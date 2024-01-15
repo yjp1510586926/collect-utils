@@ -18,7 +18,7 @@ Demo:
 import React from 'react';
 import { Component } from 'react';
 import { render } from 'react-dom';
-import { decorFunc, beforeTr, afterTr, onceTr, ExposureTag } from 'rack-utils-aop';
+import { decorFunc, beforeTr, afterTr, onceTr, ExposureTag } from 'track-utils-aop';
 import { h5pv_b1u3v_ } from '../mock.js';
 
 class ChildComponent extends React.Component {
@@ -130,7 +130,7 @@ Demo:
 
 ```jsx
 import React, { useEffect, useState } from 'react';
-import { decorFunc, beforeTr, afterTr, onceTr, ExposureTag } from 'rack-utils-aop';
+import { decorFunc, beforeTr, afterTr, onceTr, ExposureTag } from 'track-utils-aop';
 import { h5pv_b1u3v_ } from '../mock.js';
 
 const App = () => {
@@ -249,7 +249,7 @@ Demo:
 import React from 'react';
 import { Component } from 'react';
 import { render } from 'react-dom';
-import { decorFunc, before, after, once } from 'rack-utils-aop';
+import { decorFunc, before, after, once } from 'track-utils-aop';
 
 class ChildComponent extends React.Component {
   @decorFunc(before(() => console.log('before【埋点】')))
@@ -324,7 +324,7 @@ Demo:
 import React from 'react';
 import { Component } from 'react';
 import { render } from 'react-dom';
-import { decorFunc, before, after, once } from 'rack-utils-aop';
+import { decorFunc, before, after, once } from 'track-utils-aop';
 
 const App = () => {
   const onClickBeforeButton = before(
