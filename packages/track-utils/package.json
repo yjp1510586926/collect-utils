@@ -1,6 +1,6 @@
 {
     "name": "rack-utils-aop",
-    "version": "1.0.13",
+    "version": "1.0.14",
     "description": "埋点工具",
     "author": "yjp",
     "homepage": "",
@@ -16,7 +16,7 @@
         "docs": "dumi dev"
     },
     "publishConfig": {
-      "access": "public"
+        "access": "public"
     },
     "repository": {
         "type": "git",
