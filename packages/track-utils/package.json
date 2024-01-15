@@ -16,7 +16,7 @@
         "docs": "dumi dev"
     },
     "publishConfig": {
-        "registry": "https://registry.yarnpkg.com/"
+        "registry": "https://www.npmjs.com/"
     },
     "repository": {
         "type": "git",
