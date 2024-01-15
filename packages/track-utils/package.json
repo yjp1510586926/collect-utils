@@ -16,7 +16,7 @@
         "docs": "dumi dev"
     },
     "publishConfig": {
-        "registry": "https://www.npmjs.com/"
+        "registry": "http://registry.npmjs.org/"
     },
     "repository": {
         "type": "git",
@@ -34,5 +34,5 @@
         "father": "^2.0.0",
         "react": "^18.2.0"
     },
-    "gitHead": ""
+    "gitHead": "62e5a09822c6c094a6938b9ce1e2840d589de10e"
 }
