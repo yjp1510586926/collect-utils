@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "yjpyang <1510586926@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/test.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/test.test.js"
+  }
+}

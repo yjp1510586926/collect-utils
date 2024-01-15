@@ -1,0 +1,38 @@
+{
+    "name": "rack-utils-aop",
+    "version": "1.0.10",
+    "description": "埋点工具",
+    "author": "yjp",
+    "homepage": "",
+    "license": "ISC",
+    "main": "dist/index.esm.js",
+    "files": [
+        "dist"
+    ],
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "father build",
+        "build:watch": "father build -w",
+        "docs": "dumi dev"
+    },
+    "publishConfig": {
+        "registry": "https://registry.yarnpkg.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "peerDependencies": {
+        "react": "*"
+    },
+    "dependencies": {
+        "intersection-observer": "^0.12.2",
+        "lodash": "^4.17.21"
+    },
+    "devDependencies": {
+      "father": "^2.0.0",
+        "dumi": "^1.1.0",
+        "react": "^18.2.0"
+    },
+    "gitHead": ""
+}
