@@ -1,7 +1,7 @@
 ---
   nav:
     order: 1
-    title: 埋点使用案例
+    title:  埋点使用案例
     path: /
   title: 埋点使用案例
   group:
